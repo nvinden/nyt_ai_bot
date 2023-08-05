@@ -1,0 +1,16 @@
+{
+  "name": "crossword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crossword.js",
+  "scripts": {
+    "start": "node crossword.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "phaser": "^3.60.0"
+  }
+}
