@@ -1,6 +1,5 @@
-.vscode
 __pycache__
 data
-puzzles
 results
 wandb
+nohup.out

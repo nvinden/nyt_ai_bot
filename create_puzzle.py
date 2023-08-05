@@ -22,7 +22,7 @@ from pathlib import Path
 
 from transformers import T5Tokenizer, T5ForConditionalGeneration, AutoTokenizer, AutoModelForSequenceClassification
 
-WORD_FILL_MODEL_PATH = "results/word_fill/t5-base-5-larger-learning-rate/checkpoint-3060"
+WORD_FILL_MODEL_PATH = "results/word_fill/t5-base-better-ds/checkpoint-229500"
 WORD_TO_CLUE_MODEL_PATH = "results/word_to_clue/results_mtw/checkpoint-24000"
 WORD_LEGIT_MODEL_PATH = "results/word_to_clue/bert-base-attpt-3-new-ds/checkpoint-55520"
 
@@ -725,9 +725,9 @@ def main(num_puzzles, output_path):
     output_path = os.path.join(output_path, time_str)
 
     word_legit_cache = {}
-    completed_boards = 0
 
     for batch_no in range(num_puzzles):
+        completed_boards = 0
 
         boards_with_score = [[Board(past_puzzles = past_puzzles), _] for _ in range(PUZZLE_BEAM_WIDTH)]
         boards_with_score = [[board[0], get_board_score(board[0], legit_model, legit_tokenizer, word_legit_cache)[0]] for board in boards_with_score]
@@ -804,9 +804,6 @@ def main(num_puzzles, output_path):
 
             if round > 100:
                 break
-        else:
-            for board in boards_with_score:
-                save_board(board[0], output_path)
                 #except Exception:
                 #    for board in boards_with_score:
                 #        save_board(board[0], output_path)

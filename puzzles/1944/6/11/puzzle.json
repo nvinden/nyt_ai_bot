@@ -1,0 +1,596 @@
+{
+  "puzzle": "  KOHIMA WAKDE NINGPO\n AWAITER ARION AVALON\nCLERMONT HANGO TAGORE\nOSIS  TIEON WUHAN ATT\nWAY  CISCO BANAL STEW\nPTA BOOTH AITCH BASSO\nEINKORN TENACE FAN   \nNAGANA   NASH MONGOLS\n   NELL ROME SARDINIA\nDANDY ABAS DAKOTA IMP\nAMOY EBON   FIRE GOBI\nDOM ADORNS KEPI SYNOD\nDUISBURG TOUR SPAR   \nARCTICS BOND   ROOSTS\n   ADE MARCUS MONSOON\nMOLLE DANKE FRAME LOO\nARAL BUNDS FAURE  OTO\nDAS IONIA MAXIM  EMIT\nATHENS PNEUM NONAGONS\nNOISES UNITE ERODING \nGROSZY RANTS DATALS  \n",
+  "key": {
+    "across": {
+      "1": {
+        "clue": "Strategic city in Naga Hills.",
+        "word": "KOHIMA"
+      },
+      "7": {
+        "clue": "Captured Pacific air base.",
+        "word": "WAKDE"
+      },
+      "12": {
+        "clue": "Port south of Shanghai.",
+        "word": "NINGPO"
+      },
+      "18": {
+        "clue": "Watcher.",
+        "word": "AWAITER"
+      },
+      "19": {
+        "clue": "Poet of Lesbos.",
+        "word": "ARION"
+      },
+      "20": {
+        "clue": "Romantic island.",
+        "word": "AVALON"
+      },
+      "21": {
+        "clue": "\"Fulton's Folly.\"",
+        "word": "CLERMONT"
+      },
+      "22": {
+        "clue": "Finish seaport.",
+        "word": "HANGO"
+      },
+      "23": {
+        "clue": "Nobel Prize winner for poetry, 1913.",
+        "word": "TAGORE"
+      },
+      "24": {
+        "clue": "Condition Suffix.",
+        "word": "OSIS"
+      },
+      "25": {
+        "clue": "Slipover.",
+        "word": "TIEON"
+      },
+      "27": {
+        "clue": "Han cities, group of three in Hupeh.",
+        "word": "WUHAN"
+      },
+      "29": {
+        "clue": "Pewter coin.",
+        "word": "ATT"
+      },
+      "30": {
+        "clue": "System.",
+        "word": "WAY"
+      },
+      "31": {
+        "clue": "Whitefish.",
+        "word": "CISCO"
+      },
+      "32": {
+        "clue": "Flat.",
+        "word": "BANAL"
+      },
+      "33": {
+        "clue": "Menu item.",
+        "word": "STEW"
+      },
+      "34": {
+        "clue": "Parents' group.",
+        "word": "PTA"
+      },
+      "35": {
+        "clue": "Salvation Army founder, 1878.",
+        "word": "BOOTH"
+      },
+      "36": {
+        "clue": "Letter.",
+        "word": "AITCH"
+      },
+      "37": {
+        "clue": "Singer.",
+        "word": "BASSO"
+      },
+      "38": {
+        "clue": "One-grained wheat.",
+        "word": "EINKORN"
+      },
+      "40": {
+        "clue": "Bridge hand.",
+        "word": "TENACE"
+      },
+      "42": {
+        "clue": "Stimulate.",
+        "word": "FAN"
+      },
+      "43": {
+        "clue": "Tsetse fly disease.",
+        "word": "NAGANA"
+      },
+      "44": {
+        "clue": "Former Australian Ambassador.",
+        "word": "NASH"
+      },
+      "45": {
+        "clue": "Nomadic Asiatics.",
+        "word": "MONGOLS"
+      },
+      "49": {
+        "clue": "___ Gwyn.",
+        "word": "NELL"
+      },
+      "51": {
+        "clue": "Embattled city.",
+        "word": "ROME"
+      },
+      "52": {
+        "clue": "Where Cagliari is.",
+        "word": "SARDINIA"
+      },
+      "53": {
+        "clue": "Hunky-dory.",
+        "word": "DANDY"
+      },
+      "56": {
+        "clue": "Down with.",
+        "word": "ABAS"
+      },
+      "58": {
+        "clue": "Former U. S. territory.",
+        "word": "DAKOTA"
+      },
+      "60": {
+        "clue": "Sprite.",
+        "word": "IMP"
+      },
+      "61": {
+        "clue": "Treaty port.",
+        "word": "AMOY"
+      },
+      "62": {
+        "clue": "Black.",
+        "word": "EBON"
+      },
+      "63": {
+        "clue": "Berlin's fate.",
+        "word": "FIRE"
+      },
+      "64": {
+        "clue": "Central Asian desert.",
+        "word": "GOBI"
+      },
+      "65": {
+        "clue": "Brazilian title.",
+        "word": "DOM"
+      },
+      "66": {
+        "clue": "Beautifies.",
+        "word": "ADORNS"
+      },
+      "68": {
+        "clue": "Military hat.",
+        "word": "KEPI"
+      },
+      "69": {
+        "clue": "Council.",
+        "word": "SYNOD"
+      },
+      "70": {
+        "clue": "Bombed Nazi city.",
+        "word": "DUISBURG"
+      },
+      "72": {
+        "clue": "Excursion.",
+        "word": "TOUR"
+      },
+      "74": {
+        "clue": "Servicewoman.",
+        "word": "SPAR"
+      },
+      "76": {
+        "clue": "Overshoes.",
+        "word": "ARCTICS"
+      },
+      "77": {
+        "clue": "Series \"E\" item.",
+        "word": "BOND"
+      },
+      "78": {
+        "clue": "Sits.",
+        "word": "ROOSTS"
+      },
+      "82": {
+        "clue": "George ___.",
+        "word": "ADE"
+      },
+      "83": {
+        "clue": "Bombed Jap island.",
+        "word": "MARCUS"
+      },
+      "85": {
+        "clue": "Rains.",
+        "word": "MONSOON"
+      },
+      "86": {
+        "clue": "Flat Music.",
+        "word": "MOLLE"
+      },
+      "89": {
+        "clue": "Thanks Ger.",
+        "word": "DANKE"
+      },
+      "90": {
+        "clue": "Fashion.",
+        "word": "FRAME"
+      },
+      "92": {
+        "clue": "Game.",
+        "word": "LOO"
+      },
+      "93": {
+        "clue": "Inland sea.",
+        "word": "ARAL"
+      },
+      "94": {
+        "clue": "Subversive groups.",
+        "word": "BUNDS"
+      },
+      "95": {
+        "clue": "French President, 1985-99.",
+        "word": "FAURE"
+      },
+      "96": {
+        "clue": "Indian.",
+        "word": "OTO"
+      },
+      "97": {
+        "clue": "___ Kapital.",
+        "word": "DAS"
+      },
+      "98": {
+        "clue": "Part of ancient Asia Minor.",
+        "word": "IONIA"
+      },
+      "99": {
+        "clue": "Type of gun.",
+        "word": "MAXIM"
+      },
+      "100": {
+        "clue": "Send forth.",
+        "word": "EMIT"
+      },
+      "101": {
+        "clue": "Peiraeus is its seaport.",
+        "word": "ATHENS"
+      },
+      "103": {
+        "clue": "Air Comb. form.",
+        "word": "PNEUM"
+      },
+      "105": {
+        "clue": "Nine-sided figures.",
+        "word": "NONAGONS"
+      },
+      "108": {
+        "clue": "Sounds.",
+        "word": "NOISES"
+      },
+      "109": {
+        "clue": "Join.",
+        "word": "UNITE"
+      },
+      "110": {
+        "clue": "Wearing away.",
+        "word": "ERODING"
+      },
+      "111": {
+        "clue": "Polish coins.",
+        "word": "GROSZY"
+      },
+      "112": {
+        "clue": "Shouts.",
+        "word": "RANTS"
+      },
+      "113": {
+        "clue": "Reckonings by days (Var.).",
+        "word": "DATALS"
+      }
+    },
+    "down": {
+      "1": {
+        "clue": "Strategic Chinese city.",
+        "word": "KWEIYANG"
+      },
+      "2": {
+        "clue": "Sculls.",
+        "word": "OARS"
+      },
+      "3": {
+        "clue": "Pronoun.",
+        "word": "HIM"
+      },
+      "4": {
+        "clue": "Jap.",
+        "word": "ITO"
+      },
+      "5": {
+        "clue": "Name.",
+        "word": "MENTION"
+      },
+      "6": {
+        "clue": "Rembrandt.",
+        "word": "ARTIST"
+      },
+      "7": {
+        "clue": "Nonsense Slang.",
+        "word": "WAHOO"
+      },
+      "8": {
+        "clue": "Isles in Galway Bay.",
+        "word": "ARAN"
+      },
+      "9": {
+        "clue": "Relatives.",
+        "word": "KIN"
+      },
+      "10": {
+        "clue": "4 to 6, 6 to 8 P. M.",
+        "word": "DOGWATCH"
+      },
+      "11": {
+        "clue": "State.",
+        "word": "ENOUNCE"
+      },
+      "12": {
+        "clue": "Brazilian air base.",
+        "word": "NATAL"
+      },
+      "13": {
+        "clue": "Czar.",
+        "word": "IVAN"
+      },
+      "14": {
+        "clue": "Horse.",
+        "word": "NAG"
+      },
+      "15": {
+        "clue": "Gazes greedily.",
+        "word": "GLOATS"
+      },
+      "16": {
+        "clue": "___ Gil, Obregon's successor in Mexico, 1928.",
+        "word": "PORTES"
+      },
+      "17": {
+        "clue": "Fencing attack.",
+        "word": "ONETWO"
+      },
+      "18": {
+        "clue": "Disputed territory in Europe.",
+        "word": "ALSATIA"
+      },
+      "21": {
+        "clue": "Cattle enclosure",
+        "word": "COWPEN"
+      },
+      "26": {
+        "clue": "Dutch commune.",
+        "word": "ECHT"
+      },
+      "28": {
+        "clue": "Exclamation.",
+        "word": "HAH"
+      },
+      "31": {
+        "clue": "Sea near New Hebrides.",
+        "word": "CORAL"
+      },
+      "32": {
+        "clue": "Prejudiced.",
+        "word": "BIASED"
+      },
+      "33": {
+        "clue": "Islands in Dutch East Indies.",
+        "word": "SANGI"
+      },
+      "35": {
+        "clue": "Nap.",
+        "word": "BONEY"
+      },
+      "36": {
+        "clue": "Huu00e9 is its capital.",
+        "word": "ANAM"
+      },
+      "37": {
+        "clue": "Islands south of Ceram.",
+        "word": "BANDA"
+      },
+      "39": {
+        "clue": "Mountbatten's headquarters, Ceylon.",
+        "word": "KANDY"
+      },
+      "41": {
+        "clue": "Man's name.",
+        "word": "ENOS"
+      },
+      "42": {
+        "clue": "Loud.",
+        "word": "FORTE"
+      },
+      "45": {
+        "clue": "New Zealand natives.",
+        "word": "MAORIS"
+      },
+      "46": {
+        "clue": "Vegetable.",
+        "word": "ONION"
+      },
+      "47": {
+        "clue": "Place of restraint.",
+        "word": "LIMBO"
+      },
+      "48": {
+        "clue": "Palatable.",
+        "word": "SAPID"
+      },
+      "50": {
+        "clue": "Works.",
+        "word": "LABORS"
+      },
+      "51": {
+        "clue": "___ of Cutch, India.",
+        "word": "RANN"
+      },
+      "52": {
+        "clue": "Bound.",
+        "word": "SKIP"
+      },
+      "53": {
+        "clue": "Father.",
+        "word": "DADDA"
+      },
+      "54": {
+        "clue": "Love.",
+        "word": "AMOUR"
+      },
+      "55": {
+        "clue": "Customary.",
+        "word": "NOMIC"
+      },
+      "57": {
+        "clue": "Danish borough.",
+        "word": "BORG"
+      },
+      "59": {
+        "clue": "Southwest wind.",
+        "word": "AFER"
+      },
+      "62": {
+        "clue": "Evolve.",
+        "word": "EDUCE"
+      },
+      "64": {
+        "clue": "Steering devices.",
+        "word": "GYROS"
+      },
+      "66": {
+        "clue": "Tolerate.",
+        "word": "ABIDE"
+      },
+      "67": {
+        "clue": "Busy birds.",
+        "word": "STORKS"
+      },
+      "68": {
+        "clue": "Striped antelope.",
+        "word": "KUDU"
+      },
+      "69": {
+        "clue": "River joining Rhone at Lyon.",
+        "word": "SAONE"
+      },
+      "71": {
+        "clue": "Theatre seat Eng.",
+        "word": "STALL"
+      },
+      "73": {
+        "clue": "Formely.",
+        "word": "ONCE"
+      },
+      "75": {
+        "clue": "Lower Burma capital.",
+        "word": "PROME"
+      },
+      "77": {
+        "clue": "Handkerchief.",
+        "word": "BANDANNA"
+      },
+      "79": {
+        "clue": "Pacific base.",
+        "word": "SOLOMONS"
+      },
+      "80": {
+        "clue": "Blowing.",
+        "word": "TOOTING"
+      },
+      "81": {
+        "clue": "Upstages.",
+        "word": "SNOOTS"
+      },
+      "83": {
+        "clue": "Where Imphal is.",
+        "word": "MANIPUR"
+      },
+      "84": {
+        "clue": "Port on Gulf of Gabes.",
+        "word": "SFAX"
+      },
+      "85": {
+        "clue": "Turkish sea.",
+        "word": "MARMORA"
+      },
+      "86": {
+        "clue": "New Guinea port.",
+        "word": "MADANG"
+      },
+      "87": {
+        "clue": "Talker.",
+        "word": "ORATOR"
+      },
+      "88": {
+        "clue": "City on Burma road.",
+        "word": "LASHIO"
+      },
+      "89": {
+        "clue": "Washington's new bishop.",
+        "word": "DUN"
+      },
+      "91": {
+        "clue": "Devastated.",
+        "word": "RUINED"
+      },
+      "94": {
+        "clue": "Cow.",
+        "word": "BOSSY"
+      },
+      "95": {
+        "clue": "Makes renowned.",
+        "word": "FAMES"
+      },
+      "98": {
+        "clue": "___ Haynes Irwin.",
+        "word": "INEZ"
+      },
+      "99": {
+        "clue": "Comic man.",
+        "word": "MUTT"
+      },
+      "100": {
+        "clue": "The Norse Wilhelm Tell",
+        "word": "EGIL"
+      },
+      "102": {
+        "clue": "Letter.",
+        "word": "ESS"
+      },
+      "104": {
+        "clue": "One German.",
+        "word": "EIN"
+      },
+      "106": {
+        "clue": "Ne pas.",
+        "word": "NOT"
+      },
+      "107": {
+        "clue": "Girl's name.",
+        "word": "ADA"
+      }
+    }
+  },
+  "metadata": {
+    "author": "Margaret Petherbridge",
+    "editor": "Margaret Farrar",
+    "rows": 21,
+    "columns": 21,
+    "date": {
+      "month": 6,
+      "day": 11,
+      "year": 1944
+    }
+  }
+}

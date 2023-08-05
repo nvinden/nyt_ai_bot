@@ -1,0 +1,692 @@
+{
+  "puzzle": "WAVELL ABLE GRAM ARABIC\nAMELIA PEAR ROPE PERISH\nSPIKES PERORATED ODESSA\nHEN USERTESEN TASSO TUR\nERE  IDOLS CUD LETTERED\nSEDUCTIVE SULUS WITNESS\n   SAUTE STREETS LET   \nGERUNDS FPA SLEPT DROVE\nAVERSE RIATA STEAM YVON\nTEMPO CENTIME SEPOY ELI\nERIE SHINTOISM DETOURED\n  TRAPA SEN SIR RHUMB  \nHOTSPURS REDENOTES BOCA\nAVE EDGAR RENEWED FRAIL\nGENF SENOR STRAW ALERTA\nINTER REBEC IAN SMOLDER\n   REA REVISAL MISOL   \nCHORALE DUCAL CONTRACTS\nRESOLING EEL RANGE  AET\nART INSET REVENGERS VEE\nBREEZE RHEOMETER DANITE\nBINDER MEAN LIVE ABATED\nENDERS SORE DEAL METERS\n",
+  "key": {
+    "across": {
+      "1": {
+        "clue": "Famous one-eyed general.",
+        "word": "WAVELL"
+      },
+      "7": {
+        "clue": "Resourceful.",
+        "word": "ABLE"
+      },
+      "11": {
+        "clue": "Middle name of news commentator.",
+        "word": "GRAM"
+      },
+      "15": {
+        "clue": "Alphabet of 28 letters.",
+        "word": "ARABIC"
+      },
+      "21": {
+        "clue": "Flier lost in Pacific, 1937.",
+        "word": "AMELIA"
+      },
+      "22": {
+        "clue": "Obovoid pome.",
+        "word": "PEAR"
+      },
+      "23": {
+        "clue": "Equipment of Jack Ketch.",
+        "word": "ROPE"
+      },
+      "24": {
+        "clue": "Be destroyed.",
+        "word": "PERISH"
+      },
+      "25": {
+        "clue": "Stops the vent of a cannon.",
+        "word": "SPIKES"
+      },
+      "26": {
+        "clue": "Declaimed.",
+        "word": "PERORATED"
+      },
+      "28": {
+        "clue": "Black Sea naval base.",
+        "word": "ODESSA"
+      },
+      "29": {
+        "clue": "Pullet.",
+        "word": "HEN"
+      },
+      "30": {
+        "clue": "Name of 3 successive Pharaohs.",
+        "word": "USERTESEN"
+      },
+      "32": {
+        "clue": "Italian poet laureate (1544-1595).",
+        "word": "TASSO"
+      },
+      "34": {
+        "clue": "Near East country Abbr.",
+        "word": "TUR"
+      },
+      "35": {
+        "clue": "Before.",
+        "word": "ERE"
+      },
+      "36": {
+        "clue": "Fetishes.",
+        "word": "IDOLS"
+      },
+      "37": {
+        "clue": "Rumen.",
+        "word": "CUD"
+      },
+      "39": {
+        "clue": "Scholarly.",
+        "word": "LETTERED"
+      },
+      "41": {
+        "clue": "Captivating.",
+        "word": "SEDUCTIVE"
+      },
+      "44": {
+        "clue": "Inhabitants of Jolo, S. W. Philippines.",
+        "word": "SULUS"
+      },
+      "46": {
+        "clue": "Authenticate.",
+        "word": "WITNESS"
+      },
+      "47": {
+        "clue": "Fry quickly.",
+        "word": "SAUTE"
+      },
+      "48": {
+        "clue": "Passageways.",
+        "word": "STREETS"
+      },
+      "50": {
+        "clue": "Suffer.",
+        "word": "LET"
+      },
+      "51": {
+        "clue": "Verbal nouns.",
+        "word": "GERUNDS"
+      },
+      "54": {
+        "clue": "\"Information Please\" expert.",
+        "word": "FPA"
+      },
+      "55": {
+        "clue": "\"I have not ___ one wink.\"u2014Cymbeline.",
+        "word": "SLEPT"
+      },
+      "57": {
+        "clue": "Moving crowd.",
+        "word": "DROVE"
+      },
+      "61": {
+        "clue": "Hostile.",
+        "word": "AVERSE"
+      },
+      "62": {
+        "clue": "Throwing-rope.",
+        "word": "RIATA"
+      },
+      "64": {
+        "clue": "Power used in the Clermont.",
+        "word": "STEAM"
+      },
+      "66": {
+        "clue": "Man's name.",
+        "word": "YVON"
+      },
+      "67": {
+        "clue": "Relative speed.",
+        "word": "TEMPO"
+      },
+      "68": {
+        "clue": "Hundredth of a franc.",
+        "word": "CENTIME"
+      },
+      "70": {
+        "clue": "Native Hindu in British Army.",
+        "word": "SEPOY"
+      },
+      "72": {
+        "clue": "Mr. Whitney, inventor of cotton gin.",
+        "word": "ELI"
+      },
+      "73": {
+        "clue": "Lake of which Put-in-Bay is a part.",
+        "word": "ERIE"
+      },
+      "74": {
+        "clue": "Japanese ancestor-worship.",
+        "word": "SHINTOISM"
+      },
+      "76": {
+        "clue": "Went in a circuitous way.",
+        "word": "DETOURED"
+      },
+      "78": {
+        "clue": "Buffalo-nut of China.",
+        "word": "TRAPA"
+      },
+      "80": {
+        "clue": "1/2 cent in Japan.",
+        "word": "SEN"
+      },
+      "81": {
+        "clue": "\"I am ___ Oracle.\"",
+        "word": "SIR"
+      },
+      "83": {
+        "clue": "Point of mariner's compass.",
+        "word": "RHUMB"
+      },
+      "84": {
+        "clue": "Heedless persons.",
+        "word": "HOTSPURS"
+      },
+      "87": {
+        "clue": "Designates again.",
+        "word": "REDENOTES"
+      },
+      "90": {
+        "clue": "Mouth of a river Sp.",
+        "word": "BOCA"
+      },
+      "93": {
+        "clue": "Hail.",
+        "word": "AVE"
+      },
+      "94": {
+        "clue": "G-man Hoover's middle name.",
+        "word": "EDGAR"
+      },
+      "96": {
+        "clue": "Revived.",
+        "word": "RENEWED"
+      },
+      "97": {
+        "clue": "Basket made of rushes.",
+        "word": "FRAIL"
+      },
+      "98": {
+        "clue": "Geneva, in German.",
+        "word": "GENF"
+      },
+      "100": {
+        "clue": "Good neighbor.",
+        "word": "SENOR"
+      },
+      "102": {
+        "clue": "Merest trifle.",
+        "word": "STRAW"
+      },
+      "103": {
+        "clue": "Spanish watchword.",
+        "word": "ALERTA"
+      },
+      "104": {
+        "clue": "Place in the earth.",
+        "word": "INTER"
+      },
+      "106": {
+        "clue": "Early violin.",
+        "word": "REBEC"
+      },
+      "108": {
+        "clue": "Man's name.",
+        "word": "IAN"
+      },
+      "109": {
+        "clue": "Exist in latent state.",
+        "word": "SMOLDER"
+      },
+      "110": {
+        "clue": "Turmeric.",
+        "word": "REA"
+      },
+      "112": {
+        "clue": "Review for correction.",
+        "word": "REVISAL"
+      },
+      "114": {
+        "clue": "50 mi. island W. of New Guinea.",
+        "word": "MISOL"
+      },
+      "115": {
+        "clue": "Sacred music.",
+        "word": "CHORALE"
+      },
+      "119": {
+        "clue": "Pertaining to a nobleman.",
+        "word": "DUCAL"
+      },
+      "120": {
+        "clue": "Donald Nelson gives out these.",
+        "word": "CONTRACTS"
+      },
+      "124": {
+        "clue": "Cobbler's job.",
+        "word": "RESOLING"
+      },
+      "126": {
+        "clue": "Anguillid.",
+        "word": "EEL"
+      },
+      "127": {
+        "clue": "Vary.",
+        "word": "RANGE"
+      },
+      "128": {
+        "clue": "Of age (Lat. abbr.).",
+        "word": "AET"
+      },
+      "129": {
+        "clue": "Mastery in works of taste.",
+        "word": "ART"
+      },
+      "130": {
+        "clue": "Gusset.",
+        "word": "INSET"
+      },
+      "132": {
+        "clue": "Retaliators.",
+        "word": "REVENGERS"
+      },
+      "135": {
+        "clue": "Buy 50 Defense Stamps with this.",
+        "word": "VEE"
+      },
+      "136": {
+        "clue": "Wind.",
+        "word": "BREEZE"
+      },
+      "138": {
+        "clue": "Device for indicating speed of blood circulation.",
+        "word": "RHEOMETER"
+      },
+      "140": {
+        "clue": "Member of Mormon band, \"Destroying Angels.\"",
+        "word": "DANITE"
+      },
+      "142": {
+        "clue": "Agricultural implement.",
+        "word": "BINDER"
+      },
+      "143": {
+        "clue": "Moderation.",
+        "word": "MEAN"
+      },
+      "144": {
+        "clue": "\"Men's evil manners ___ in brass.\"u2014King Henry VIII.",
+        "word": "LIVE"
+      },
+      "145": {
+        "clue": "Declined.",
+        "word": "ABATED"
+      },
+      "146": {
+        "clue": "Finishers.",
+        "word": "ENDERS"
+      },
+      "147": {
+        "clue": "Aggrieved.",
+        "word": "SORE"
+      },
+      "148": {
+        "clue": "Indefinite quantity.",
+        "word": "DEAL"
+      },
+      "149": {
+        "clue": "Verbal rhythms.",
+        "word": "METERS"
+      }
+    },
+    "down": {
+      "1": {
+        "clue": "Sweeps over.",
+        "word": "WASHES"
+      },
+      "2": {
+        "clue": "French physicist, student of electrodynamics.",
+        "word": "AMPERE"
+      },
+      "3": {
+        "clue": "Variegated.",
+        "word": "VEINED"
+      },
+      "4": {
+        "clue": "Member of B.P.O.E.",
+        "word": "ELK"
+      },
+      "5": {
+        "clue": "Stead.",
+        "word": "LIEU"
+      },
+      "6": {
+        "clue": "Weariness.",
+        "word": "LASSITUDE"
+      },
+      "7": {
+        "clue": "Confirm.",
+        "word": "APPROVE"
+      },
+      "8": {
+        "clue": "Heavy wooden mallet.",
+        "word": "BEETLE"
+      },
+      "9": {
+        "clue": "Tutelary gods.",
+        "word": "LARES"
+      },
+      "10": {
+        "clue": "Hermes' son.",
+        "word": "EROS"
+      },
+      "11": {
+        "clue": "Small particles.",
+        "word": "GRANULES"
+      },
+      "12": {
+        "clue": "Corrupt.",
+        "word": "ROT"
+      },
+      "13": {
+        "clue": "Egyptian goddess of motherhood.",
+        "word": "APET"
+      },
+      "14": {
+        "clue": "Decoration.",
+        "word": "MEDAL"
+      },
+      "15": {
+        "clue": "Marginal note.",
+        "word": "APOSTIL"
+      },
+      "16": {
+        "clue": "Sketched lightly again.",
+        "word": "REDOTTED"
+      },
+      "17": {
+        "clue": "Hundred square meters.",
+        "word": "ARE"
+      },
+      "18": {
+        "clue": "Dark brown color.",
+        "word": "BISTRE"
+      },
+      "19": {
+        "clue": "What the Treasury does to bonds.",
+        "word": "ISSUES"
+      },
+      "20": {
+        "clue": "Beet-like vegetables.",
+        "word": "CHARDS"
+      },
+      "27": {
+        "clue": "Come back.",
+        "word": "RECUR"
+      },
+      "31": {
+        "clue": "Compiles.",
+        "word": "EDITS"
+      },
+      "33": {
+        "clue": "Embroider.",
+        "word": "SEW"
+      },
+      "38": {
+        "clue": "Combats.",
+        "word": "DUELS"
+      },
+      "40": {
+        "clue": "Record.",
+        "word": "ENTRY"
+      },
+      "42": {
+        "clue": "Arrogators.",
+        "word": "USURPERS"
+      },
+      "43": {
+        "clue": "Strait between Nova Scotia and New Breton.",
+        "word": "CANSO"
+      },
+      "44": {
+        "clue": "Dealer named for open stall, his original shop.",
+        "word": "STATIONER"
+      },
+      "45": {
+        "clue": "Proof-reader's marks.",
+        "word": "STETS"
+      },
+      "48": {
+        "clue": "Noise of distant musketry.",
+        "word": "SPATTER"
+      },
+      "49": {
+        "clue": "Prime necessity for war production.",
+        "word": "SPEED"
+      },
+      "51": {
+        "clue": "Seaway.",
+        "word": "GATE"
+      },
+      "52": {
+        "clue": "\"What, never? Hardly ___.\"",
+        "word": "EVER"
+      },
+      "53": {
+        "clue": "Having irregular action.",
+        "word": "REMITTENT"
+      },
+      "54": {
+        "clue": "Reluctant allies of Germany.",
+        "word": "FINNS"
+      },
+      "56": {
+        "clue": "Lessened gradually.",
+        "word": "TAPERED"
+      },
+      "58": {
+        "clue": "Out of a ship.",
+        "word": "OVERBOARD"
+      },
+      "59": {
+        "clue": "Mouse-like rodent.",
+        "word": "VOLE"
+      },
+      "60": {
+        "clue": "Poetical ideal of wifely devotion.",
+        "word": "ENID"
+      },
+      "62": {
+        "clue": "Brazilian monetary unit.",
+        "word": "REI"
+      },
+      "63": {
+        "clue": "What Damon was to Pythias (Fr.).",
+        "word": "AMI"
+      },
+      "65": {
+        "clue": "Fly-by-nights.",
+        "word": "MOTHS"
+      },
+      "68": {
+        "clue": "Platter for meat.",
+        "word": "CHARGER"
+      },
+      "69": {
+        "clue": "Highly important.",
+        "word": "ESSENTIAL"
+      },
+      "71": {
+        "clue": "Pronoun.",
+        "word": "YOU"
+      },
+      "74": {
+        "clue": "Potatoes.",
+        "word": "SPUDS"
+      },
+      "75": {
+        "clue": "Inorganic substance.",
+        "word": "MINERAL"
+      },
+      "77": {
+        "clue": "Symbol of appeasement.",
+        "word": "UMBRELLA"
+      },
+      "79": {
+        "clue": "Take off.",
+        "word": "APE"
+      },
+      "82": {
+        "clue": "Fruit of the mountain ash.",
+        "word": "ROWAN"
+      },
+      "84": {
+        "clue": "Seaport of Honshu Island.",
+        "word": "HAGI"
+      },
+      "85": {
+        "clue": "Sterilizing apparatus.",
+        "word": "OVEN"
+      },
+      "86": {
+        "clue": "Showing more normal judgment.",
+        "word": "SANER"
+      },
+      "88": {
+        "clue": "Of the Fr.",
+        "word": "DES"
+      },
+      "89": {
+        "clue": "Prepare by working.",
+        "word": "TEW"
+      },
+      "91": {
+        "clue": "Adduce.",
+        "word": "CITE"
+      },
+      "92": {
+        "clue": "Pertaining to the armpit.",
+        "word": "ALAR"
+      },
+      "95": {
+        "clue": "Invested.",
+        "word": "ROBED"
+      },
+      "97": {
+        "clue": "Overthrow.",
+        "word": "FLOOR"
+      },
+      "99": {
+        "clue": "Iron prow of a gondola.",
+        "word": "FERRO"
+      },
+      "101": {
+        "clue": "Musical stage production.",
+        "word": "REVUE"
+      },
+      "103": {
+        "clue": "Port on Zuider Zee, occupied by Nazis.",
+        "word": "AMSTERDAM"
+      },
+      "105": {
+        "clue": "Appreciator.",
+        "word": "REALIZER"
+      },
+      "107": {
+        "clue": "Guide.",
+        "word": "CICERONE"
+      },
+      "109": {
+        "clue": "Scorch.",
+        "word": "SINGE"
+      },
+      "111": {
+        "clue": "Surveying telescopes.",
+        "word": "ALINERS"
+      },
+      "113": {
+        "clue": "Birthplace of Nathaniel Hawthorne.",
+        "word": "SALEM"
+      },
+      "114": {
+        "clue": "Of mixed origin.",
+        "word": "MONGREL"
+      },
+      "115": {
+        "clue": "English poet (1754-1832).",
+        "word": "CRABBE"
+      },
+      "116": {
+        "clue": "Illinois town, scene of strike massacre.",
+        "word": "HERRIN"
+      },
+      "117": {
+        "clue": "Nazi submarine base in Belgium.",
+        "word": "OSTEND"
+      },
+      "118": {
+        "clue": "Rank in the navy Abbr.",
+        "word": "ENS"
+      },
+      "120": {
+        "clue": "Woolen fabric.",
+        "word": "CANEVA"
+      },
+      "121": {
+        "clue": "Naval base in Luzon.",
+        "word": "CAVITE"
+      },
+      "122": {
+        "clue": "Vacillate.",
+        "word": "TEETER"
+      },
+      "123": {
+        "clue": "War-horses.",
+        "word": "STEEDS"
+      },
+      "125": {
+        "clue": "Suggested Nazi name.",
+        "word": "GERMS"
+      },
+      "127": {
+        "clue": "Fasten again.",
+        "word": "RETIE"
+      },
+      "131": {
+        "clue": "Aaron Burr's daughter.",
+        "word": "THEO"
+      },
+      "133": {
+        "clue": "Open country in Transvaal.",
+        "word": "VELD"
+      },
+      "134": {
+        "clue": "Know.",
+        "word": "SABE"
+      },
+      "137": {
+        "clue": "Town in Netherlands.",
+        "word": "EDE"
+      },
+      "139": {
+        "clue": "Spike.",
+        "word": "EAR"
+      },
+      "141": {
+        "clue": "Spirit worshiped in Thailand.",
+        "word": "NAT"
+      }
+    }
+  },
+  "metadata": {
+    "author": "Charles Erlenkotter",
+    "editor": "Margaret Farrar",
+    "rows": 23,
+    "columns": 23,
+    "date": {
+      "month": 2,
+      "day": 15,
+      "year": 1942
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Test Pretrain",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/test_pretrained.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Train Word 2 Clue",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/train_word_to_clue.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Train Word Filler",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/train_word_fill.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Train Word Legitamacy",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/train_word_legit.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Generate Dataset",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/create_dataset.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Generate Word Bank",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/generate_word_bank.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Create Puzzle",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/create_puzzle.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["--num-puzzles=20", "--output-path=ai_puzzles"]
+        },
+        {
+            "name": "Create Full Puzzle",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/create_full_puzzle.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["--num-puzzles=20", "--output-path=ai_puzzles"]
+        },
+        {
+            "name": "Start Website",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceFolder}/website/server.js",
+            "stopOnEntry": false,
+            "sourceMap": true,
+            "skipFiles": ["<node_internals>/**", "node_modules/**"],
+            "args": ["--inspect-brk"]
+          },
+          {
+            "name": "Debug Firefox",
+            "type": "firefox",
+            "request": "launch",
+            "reAttach": true,
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}/website/public",
+            "sourceMap": true,
+            //"stopOnEntry": false
+          }
+    ],
+    "compounds": [
+        {
+          "name": "Start Website and Debug",
+          "configurations": ["Start Website", "Debug Firefox"]
+        }
+      ]
+}

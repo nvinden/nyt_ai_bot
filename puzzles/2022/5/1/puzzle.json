@@ -1,0 +1,704 @@
+{
+    "puzzle": "AHA LTE  SCHMO  ISH NIB\nREXREED SHOOINS DUALIPA\nPHLEGMY FORTLEE ABRAHAM\n   WAP GOODEATS ADS   \nANGELENO PAPAL WARZONE\nDEADHEAD TOG CASUALSEX\nLASSI PLANETEARTH SOAMI\nITS DOTIME   LOCALS GET\nBOYS DUE IBARS HMO SEAS\n   OWEN CLARION ELON   \nABASE EWE DMS EID SUGAR\nLANAIS TOOKOVER FIGARO\nARI REEF LAHTI ETRE SMU\nBSIDES AERATED HARPON\nABEFORTAS MIO ROCKSOLID\nMATS   SOLARSAIL   DIRE\nACE LUPINE   PEDANT NED\n KARATE ENDUSER GOOSES \n   EBERT OUSTS SLOPE   \nSWEATSIT MAR STARDATE\nTILDE SNOWPIERCER HUMOR\nADAMS ETPHONEHOME ACELA\nTENET  SEAN TOTS  TENDS\n",
+    "key": {
+        "across": {
+            "1": {
+                "clue": "You say it when you \"get it\"",
+                "word": "AHA"
+            },
+            "4": {
+                "clue": "Cell connection inits.",
+                "word": "LTE"
+            },
+            "7": {
+                "clue": "Dope",
+                "word": "SCHMO"
+            },
+            "12": {
+                "clue": "Sorta",
+                "word": "ISH"
+            },
+            "15": {
+                "clue": "Writing tip",
+                "word": "NIB"
+            },
+            "18": {
+                "clue": "Film critic with a cameo in 1978's \"Superman\"",
+                "word": "REXREED"
+            },
+            "20": {
+                "clue": "Safe bets",
+                "word": "SHOOINS"
+            },
+            "22": {
+                "clue": "\"Levitating\" singer, 2020",
+                "word": "DUALIPA"
+            },
+            "24": {
+                "clue": "Stuffed up, in a way",
+                "word": "PHLEGMY"
+            },
+            "25": {
+                "clue": "Northern New Jersey town",
+                "word": "FORTLEE"
+            },
+            "26": {
+                "clue": "Literally, \"father of many\"",
+                "word": "ABRAHAM"
+            },
+            "27": {
+                "clue": "2020 #1 hit for Cardi B and Megan Thee Stallion",
+                "word": "WAP"
+            },
+            "28": {
+                "clue": "Longtime cooking show hosted by Alton Brown",
+                "word": "GOODEATS"
+            },
+            "30": {
+                "clue": "They may be classified",
+                "word": "ADS"
+            },
+            "31": {
+                "clue": "Resident of the U.S.'s second-largest city",
+                "word": "ANGELENO"
+            },
+            "35": {
+                "clue": "Like some bulls",
+                "word": "PAPAL"
+            },
+            "36": {
+                "clue": "Dangerous part of a tour",
+                "word": "WARZONE"
+            },
+            "41": {
+                "clue": "Fan of the album \"Aoxomoxoa,\" say",
+                "word": "DEADHEAD"
+            },
+            "43": {
+                "clue": "Dress (up)",
+                "word": "TOG"
+            },
+            "44": {
+                "clue": "Flings without strings",
+                "word": "CASUALSEX"
+            },
+            "45": {
+                "clue": "Yogurt-based Indian drink",
+                "word": "LASSI"
+            },
+            "46": {
+                "clue": "The Blue Marble",
+                "word": "PLANETEARTH"
+            },
+            "49": {
+                "clue": "\"Ditto!\"",
+                "word": "SOAMI"
+            },
+            "50": {
+                "clue": "Part of \"fwiw\"",
+                "word": "ITS"
+            },
+            "51": {
+                "clue": "Sit in stir",
+                "word": "DOTIME"
+            },
+            "53": {
+                "clue": "Good people to ask for directions",
+                "word": "LOCALS"
+            },
+            "55": {
+                "clue": "Grok",
+                "word": "GET"
+            },
+            "56": {
+                "clue": "Clothing store sign",
+                "word": "BOYS"
+            },
+            "58": {
+                "clue": "Owed",
+                "word": "DUE"
+            },
+            "59": {
+                "clue": "Parts of many skyscrapers",
+                "word": "IBARS"
+            },
+            "63": {
+                "clue": "Med. care option",
+                "word": "HMO"
+            },
+            "64": {
+                "clue": "South ___",
+                "word": "SEAS"
+            },
+            "65": {
+                "clue": "Wilson of film",
+                "word": "OWEN"
+            },
+            "67": {
+                "clue": "Loud and clear, as a call to action",
+                "word": "CLARION"
+            },
+            "69": {
+                "clue": "First name among billionaires",
+                "word": "ELON"
+            },
+            "71": {
+                "clue": "Demean",
+                "word": "ABASE"
+            },
+            "74": {
+                "clue": "Woolly ma'am",
+                "word": "EWE"
+            },
+            "76": {
+                "clue": "Chats over Twitter, for short",
+                "word": "DMS"
+            },
+            "77": {
+                "clue": "___ al-Fitr (holiday)",
+                "word": "EID"
+            },
+            "79": {
+                "clue": "Lump sum?",
+                "word": "SUGAR"
+            },
+            "83": {
+                "clue": "Hawaiian home parts",
+                "word": "LANAIS"
+            },
+            "85": {
+                "clue": "Grabbed the reins",
+                "word": "TOOKOVER"
+            },
+            "88": {
+                "clue": "The barber of Seville",
+                "word": "FIGARO"
+            },
+            "89": {
+                "clue": "Singer Grande, to fans",
+                "word": "ARI"
+            },
+            "90": {
+                "clue": "Diverse ecosystem",
+                "word": "REEF"
+            },
+            "92": {
+                "clue": "Christine of \"The Blacklist\"",
+                "word": "LAHTI"
+            },
+            "93": {
+                "clue": "French 101 verb",
+                "word": "ETRE"
+            },
+            "95": {
+                "clue": "Mustangs' sch.",
+                "word": "SMU"
+            },
+            "96": {
+                "clue": "Back tracks?",
+                "word": "BSIDES"
+            },
+            "98": {
+                "clue": "Made bubbly",
+                "word": "AERATED"
+            },
+            "100": {
+                "clue": "Not stop talking about",
+                "word": "HARPON"
+            },
+            "102": {
+                "clue": "Supreme Court appointee before Thurgood Marshall",
+                "word": "ABEFORTAS"
+            },
+            "104": {
+                "clue": "\"Dios ___!\"",
+                "word": "MIO"
+            },
+            "105": {
+                "clue": "Firm",
+                "word": "ROCKSOLID"
+            },
+            "107": {
+                "clue": "Pin points?",
+                "word": "MATS"
+            },
+            "108": {
+                "clue": "Spacecraft's reflective attachment",
+                "word": "SOLARSAIL"
+            },
+            "111": {
+                "clue": "Ominous",
+                "word": "DIRE"
+            },
+            "112": {
+                "clue": "Flexible spade, say",
+                "word": "ACE"
+            },
+            "113": {
+                "clue": "Like werewolves",
+                "word": "LUPINE"
+            },
+            "116": {
+                "clue": "Hairsplitter",
+                "word": "PEDANT"
+            },
+            "120": {
+                "clue": "Late actor Eisenberg",
+                "word": "NED"
+            },
+            "121": {
+                "clue": "In which belts are worn",
+                "word": "KARATE"
+            },
+            "123": {
+                "clue": "Ideal beta tester",
+                "word": "ENDUSER"
+            },
+            "127": {
+                "clue": "Gives a boost, informally",
+                "word": "GOOSES"
+            },
+            "129": {
+                "clue": "Roger ___, first film critic to win a Pulitzer for criticism",
+                "word": "EBERT"
+            },
+            "131": {
+                "clue": "Boots",
+                "word": "OUSTS"
+            },
+            "132": {
+                "clue": "Algebra I calculation",
+                "word": "SLOPE"
+            },
+            "133": {
+                "clue": "Worries",
+                "word": "SWEATSIT"
+            },
+            "137": {
+                "clue": "Calendar mo.",
+                "word": "MAR"
+            },
+            "138": {
+                "clue": "Captain's log entry, maybe",
+                "word": "STARDATE"
+            },
+            "142": {
+                "clue": "Quinceañera feature",
+                "word": "TILDE"
+            },
+            "143": {
+                "clue": "2013 Bong Joon Ho thriller",
+                "word": "SNOWPIERCER"
+            },
+            "146": {
+                "clue": "Hear out, say",
+                "word": "HUMOR"
+            },
+            "147": {
+                "clue": "N.Y.C. mayor after de Blasio",
+                "word": "ADAMS"
+            },
+            "148": {
+                "clue": "Alien's line of communication?",
+                "word": "ETPHONEHOME"
+            },
+            "149": {
+                "clue": "Speedy travel option",
+                "word": "ACELA"
+            },
+            "150": {
+                "clue": "Precept",
+                "word": "TENET"
+            },
+            "151": {
+                "clue": "John, abroad",
+                "word": "SEAN"
+            },
+            "152": {
+                "clue": "Young 'uns",
+                "word": "TOTS"
+            },
+            "153": {
+                "clue": "Cares for",
+                "word": "TENDS"
+            }
+        },
+        "down": {
+            "1": {
+                "clue": "Pioneer in Dadaism",
+                "word": "ARP"
+            },
+            "2": {
+                "clue": "\"That's amusing\"",
+                "word": "HEH"
+            },
+            "3": {
+                "clue": "Rose of Guns N' Roses",
+                "word": "AXL"
+            },
+            "4": {
+                "clue": "Passport, for one",
+                "word": "LEGALID"
+            },
+            "5": {
+                "clue": "Vegan protein source made from fermented soybeans",
+                "word": "TEMPEH"
+            },
+            "6": {
+                "clue": "Big name in ice cream",
+                "word": "EDY"
+            },
+            "7": {
+                "clue": "1993 Salt-N-Pepa hit",
+                "word": "SHOOP"
+            },
+            "8": {
+                "clue": "Heart-shaped, as leaves",
+                "word": "CORDATE"
+            },
+            "9": {
+                "clue": "Entree with boiling broth",
+                "word": "HOTPOT"
+            },
+            "10": {
+                "clue": "Dash figure",
+                "word": "MILEAGE"
+            },
+            "11": {
+                "clue": "#1 N.B.A. draft pick in 1992",
+                "word": "ONEAL"
+            },
+            "12": {
+                "clue": "Journalist ___ B. Wells",
+                "word": "IDA"
+            },
+            "13": {
+                "clue": "Outback, e.g.",
+                "word": "SUBARU"
+            },
+            "14": {
+                "clue": "Stereotypical football coach",
+                "word": "HARDASS"
+            },
+            "15": {
+                "clue": "Org. with grants",
+                "word": "NIH"
+            },
+            "16": {
+                "clue": "It's got hops, for short",
+                "word": "IPA"
+            },
+            "17": {
+                "clue": "Superhero comics sound",
+                "word": "BAM"
+            },
+            "19": {
+                "clue": "Ties another knot",
+                "word": "REWEDS"
+            },
+            "20": {
+                "clue": "Bay Area airport code",
+                "word": "SFO"
+            },
+            "21": {
+                "clue": "Tennis division",
+                "word": "SET"
+            },
+            "23": {
+                "clue": "Victor ___, role in \"Casablanca\"",
+                "word": "LASZLO"
+            },
+            "28": {
+                "clue": "Professional saver?",
+                "word": "GOALIE"
+            },
+            "29": {
+                "clue": "Fad accessory of the 1980s",
+                "word": "SWATCH"
+            },
+            "31": {
+                "clue": "It comes off the top of one's head",
+                "word": "ADLIB"
+            },
+            "32": {
+                "clue": "\"Cool beans!\"",
+                "word": "NEATO"
+            },
+            "33": {
+                "clue": "Verbose",
+                "word": "GASSY"
+            },
+            "34": {
+                "clue": "The eighth of eight",
+                "word": "NEPTUNE"
+            },
+            "37": {
+                "clue": "Feeling bad, in a way",
+                "word": "ASHAMED"
+            },
+            "38": {
+                "clue": "\"August ___ County\" (Tracy Letts play)",
+                "word": "OSAGE"
+            },
+            "39": {
+                "clue": "Site of Hercules' first labor",
+                "word": "NEMEA"
+            },
+            "40": {
+                "clue": "Ramps up or down?",
+                "word": "EXITS"
+            },
+            "42": {
+                "clue": "Leave it to beavers",
+                "word": "DAM"
+            },
+            "44": {
+                "clue": "___-Magnon",
+                "word": "CRO"
+            },
+            "47": {
+                "clue": "Author Gaiman",
+                "word": "NEIL"
+            },
+            "48": {
+                "clue": "Plus",
+                "word": "ALSO"
+            },
+            "52": {
+                "clue": "Pablo Neruda wrote one \"to a large tuna in the market\"",
+                "word": "ODE"
+            },
+            "54": {
+                "clue": "Has online?",
+                "word": "LOL"
+            },
+            "57": {
+                "clue": "Slugger with 609 homers",
+                "word": "SOSA"
+            },
+            "60": {
+                "clue": "Bit of cosmic justice",
+                "word": "BADKARMA"
+            },
+            "61": {
+                "clue": "Unlikely feature for competitive swimmers",
+                "word": "ARMHAIR"
+            },
+            "62": {
+                "clue": "Some trattoria offerings",
+                "word": "RISOTTOS"
+            },
+            "64": {
+                "clue": "All tucked in",
+                "word": "SNUG"
+            },
+            "66": {
+                "clue": "Eccentric",
+                "word": "WEIRDO"
+            },
+            "67": {
+                "clue": "Top dog, for short",
+                "word": "CEO"
+            },
+            "68": {
+                "clue": "Wedding notice word",
+                "word": "NEE"
+            },
+            "70": {
+                "clue": "Basket-weaving materials",
+                "word": "OSIERS"
+            },
+            "71": {
+                "clue": "Home of Gulf State Park",
+                "word": "ALABAMA"
+            },
+            "72": {
+                "clue": "Behind-the-counter helper",
+                "word": "BARBACK"
+            },
+            "73": {
+                "clue": "Licorice-flavored quaff",
+                "word": "ANISETEA"
+            },
+            "75": {
+                "clue": "\"___ With Marc Maron\" (popular podcast)",
+                "word": "WTF"
+            },
+            "78": {
+                "clue": "Rage",
+                "word": "IRE"
+            },
+            "80": {
+                "clue": "Main connection?",
+                "word": "GASLINE"
+            },
+            "81": {
+                "clue": "Some antique furniture",
+                "word": "ARMOIRES"
+            },
+            "82": {
+                "clue": "Like 100 vis-à-vis 99, say",
+                "word": "ROUNDED"
+            },
+            "84": {
+                "clue": "The Trojan priestess Cassandra, e.g.",
+                "word": "SEER"
+            },
+            "86": {
+                "clue": "Two-syllable cheer",
+                "word": "OLE"
+            },
+            "87": {
+                "clue": "Contest",
+                "word": "VIE"
+            },
+            "88": {
+                "clue": "Softened expletive on \"Battlestar Galactica\"",
+                "word": "FRAK"
+            },
+            "91": {
+                "clue": "Cutesy ending with most",
+                "word": "EST"
+            },
+            "94": {
+                "clue": "Marijuana compound, for short",
+                "word": "THC"
+            },
+            "97": {
+                "clue": "Some coding statements",
+                "word": "IFS"
+            },
+            "98": {
+                "clue": "United",
+                "word": "ASONE"
+            },
+            "99": {
+                "clue": "Having less vermouth, say",
+                "word": "DRIER"
+            },
+            "101": {
+                "clue": "Air or Ear ender, in tech",
+                "word": "POD"
+            },
+            "103": {
+                "clue": "\"___ live and breathe!\"",
+                "word": "ASI"
+            },
+            "106": {
+                "clue": "No longer funny",
+                "word": "OLD"
+            },
+            "109": {
+                "clue": "Jay with jokes",
+                "word": "LENO"
+            },
+            "110": {
+                "clue": "Does the same as",
+                "word": "APES"
+            },
+            "113": {
+                "clue": "Blood typing, e.g.",
+                "word": "LABTEST"
+            },
+            "114": {
+                "clue": "Runnin' ___ (N.C.A.A. basketball team)",
+                "word": "UTES"
+            },
+            "115": {
+                "clue": "In and of itself",
+                "word": "PERSE"
+            },
+            "117": {
+                "clue": "Shining brightly",
+                "word": "AGLARE"
+            },
+            "118": {
+                "clue": "Former Jordanian queen",
+                "word": "NOOR"
+            },
+            "119": {
+                "clue": "Formal accessory",
+                "word": "TOPHAT"
+            },
+            "122": {
+                "clue": "Text file in a software package",
+                "word": "README"
+            },
+            "124": {
+                "clue": "Inundate, as with work",
+                "word": "DUMPON"
+            },
+            "125": {
+                "clue": "Runner Bolt",
+                "word": "USAIN"
+            },
+            "126": {
+                "clue": "Like some parking",
+                "word": "STREET"
+            },
+            "128": {
+                "clue": "Attract while exploiting someone's weakness",
+                "word": "SEDUCE"
+            },
+            "130": {
+                "clue": "Shades",
+                "word": "TINTS"
+            },
+            "132": {
+                "clue": "Cuts off the flow of",
+                "word": "STEMS"
+            },
+            "133": {
+                "clue": "\"P.D.Q.\" in the O.R.",
+                "word": "STAT"
+            },
+            "134": {
+                "clue": "Way off the mark",
+                "word": "WIDE"
+            },
+            "135": {
+                "clue": "Flair",
+                "word": "ELAN"
+            },
+            "136": {
+                "clue": "Imbibe, old-style",
+                "word": "TOPE"
+            },
+            "138": {
+                "clue": "Scrooge McDuck, for one",
+                "word": "SCOT"
+            },
+            "139": {
+                "clue": "Last word of the New Testament",
+                "word": "AMEN"
+            },
+            "140": {
+                "clue": "\"All ___ ...\"",
+                "word": "TOLD"
+            },
+            "141": {
+                "clue": "Chapters in history",
+                "word": "ERAS"
+            },
+            "144": {
+                "clue": "\"Hunh?\"",
+                "word": "WHA"
+            },
+            "145": {
+                "clue": "P",
+                "word": "RHO"
+            }
+        }
+    },
+    "metadata": {
+        "author": "Brandon Koppy",
+        "editor": "Will Shortz",
+        "rows": 23,
+        "columns": 23,
+        "date": {
+            "month": 5,
+            "day": 1,
+            "year": 2022
+        }
+    }
+}
