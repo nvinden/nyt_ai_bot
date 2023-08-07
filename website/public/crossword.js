@@ -2,7 +2,7 @@
 var config = {
     type: Phaser.WEBGL,
     width: 800,
-    height: 600,
+    height: 1000,
     backgroundColor: '#ffffff', // Set the background color here (hex color code)
     parent: 'crossword-container',
     scene: {
@@ -21,7 +21,7 @@ async function preload() {
     // Load javascript files
     console.log("preload");
 
-    const json_file = "data/complete_crosswords/puzzle_*LESSE***TSONE*_D2N7U_CHATGPT_gpt-4_MANU.json";
+    const json_file = "cross_data/complete_crosswords/puzzle_*LESSE***TSONE*_D2N7U_CHATGPT_gpt-4_MANU.json";
     let json_data;
 
     try {
@@ -30,11 +30,14 @@ async function preload() {
       console.error('Error loading JSON file:', error);
     }
 
-
     this.complete_board = json_data.board;
     this.entries = json_data.entries;
     this.n_rows = json_data.n_rows;
     this.n_cols = json_data.n_cols;
+    this.cellWidth = game.config.width / this.n_cols;
+    this.cellHeight = (game.config.height - 200) / this.n_rows;
+    this.highlighted = null;
+    this.curr_direction = "across";
 
     let curr_board = [];
 
@@ -54,6 +57,24 @@ async function preload() {
 
     this.board = curr_board;
 
+    // Clue grids
+    // Iterate through each clue in the provided list
+    this.acrossClues = Array.from({ length: this.n_rows }, () => Array(this.n_cols).fill(null));
+    this.downClues = Array.from({ length: this.n_rows }, () => Array(this.n_cols).fill(null));
+
+    this.entries.forEach(clueObj => {
+        if (clueObj.direction === 'across') {
+            getAcrossClueString.call(this, clueObj);
+        } else if (clueObj.direction === 'down') {
+            getDownClueString.call(this, clueObj);
+        }
+    });
+
+    this.cluePlacement = Array.from({ length: this.n_rows }, () => Array(this.n_cols).fill(null));
+    this.entries.forEach(clueObj => {
+        this.cluePlacement[clueObj.row][clueObj.col] = clueObj.clue_num;
+    });
+
     console.log(this.board, this.entries, this.n_rows, this.n_cols);
 
     //await create();
@@ -64,6 +85,8 @@ async function preload() {
 // 2. Creates the crossword grid
 // 3. Creates the clues
 async function create() {
+    const self = this;
+
     // Example: this.add.image(x, y, 'key');
     console.log("create");
 
@@ -73,70 +96,30 @@ async function create() {
 
     this.drawGrid(this.board);
 
-    const mouse_click = this.mouse_click;
-
     // Add function to click on the screen
     this.input.on('pointerdown', function (pointer) {
-      mouse_click(pointer);
+        self.mouse_click.call(self, pointer); 
     });
+
+    // Add function to press buttons
+    this.input.keyboard.on('keydown', function (event) {
+        self.key_press.call(self, event);
+    });
+
+
 }
 
 // Update loop (called repeatedly after create)
 function update() {
     // Example: game logic goes here
-    if (this.board == undefined) {
+    if (this.board == undefined || this.highlighted == undefined) {
         console.log("waiting update");
         return;
     }
 
     console.log("update");
 
-    //console.log(this.board, this.entries, this.n_rows, this.n_cols);
-}
-
-
-// Graphical function
-function drawGrid(board) {
-  // Create a graphics object to draw the grid and letters
-  const graphics = this.add.graphics();
-
-  // Set the line style for the grid lines
-  graphics.lineStyle(1, 0x000000, 1);
-
-  // Cell width and height
-  const cellWidth = game.config.width / board[0].length;
-  const cellHeight = game.config.height / board.length;
-
-  // Draw vertical lines to create the columns and display letters in each cell
-  for (let col = 0; col <= board[0].length; col++) {
-      const x = col * cellWidth;
-      graphics.moveTo(x, 0);
-      graphics.lineTo(x, game.config.height);
-
-      for (let row = 0; row < board.length; row++) {
-          const y = row * cellHeight;
-          const letter = board[row][col];
-
-          // Display the letter in the cell
-          const text = this.add.text(x + cellWidth / 2, y + cellHeight / 2, letter, {
-              font: '24px Arial',
-              fill: '#000000',
-              align: 'center'
-          });
-          text.setOrigin(0.5, 0.5);
-      }
-  }
-
-  // Draw horizontal lines to create the rows
-  for (let row = 0; row <= board.length; row++) {
-      const y = row * cellHeight;
-      graphics.moveTo(0, y);
-      graphics.lineTo(game.config.width, y);
-  }
-
-  // Render the grid on the screen
-  graphics.strokePath();
-  this.graphics = graphics;
+    this.drawClue.call(this);
 }
 
 
@@ -179,4 +162,19 @@ async function loadJsonFile(url) {
     return new Promise(resolve => setTimeout(resolve, ms));
   }
   
-  
+function getAcrossClueString(clueObj) {
+    let clueString = clueObj.clue;
+    for (let col = clueObj.col; col < this.board[0].length; col++) {
+        if (this.board[clueObj.row][col] === '*') break; // Stop if it reaches a black square
+        this.acrossClues[clueObj.row][col] = [clueString, clueObj.clue_num]; // Add the clue number to the grid
+    }
+};
+
+function getDownClueString(clueObj) {
+    let clueString = clueObj.clue;
+    for (let row = clueObj.row; row < this.board.length; row++) {
+        if (this.board[row][clueObj.col] === '*') break; // Stop if it reaches a black square
+        this.downClues[row][clueObj.col] = [clueString, clueObj.clue_num];
+    }
+};
+
